@@ -90,3 +90,9 @@ TA-DA! **ENJOY**
 
 - [How to Hydrus - YouTube Playlist](https://youtube.com/playlist?list=PLD4r6M35XTXNb6vse1urIhJPCjsZL9mru&si=q3smaRHSo7U2Aqyn)
 
+- [adding new downloaders](https://hydrusnetwork.github.io/hydrus/adding_new_downloaders.html)
+
+- [Discord Downloader](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/tree/master/Downloaders/Discord)
+
+- [Hydrus Presets, Scripts & Issue Tracker](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts)
+
