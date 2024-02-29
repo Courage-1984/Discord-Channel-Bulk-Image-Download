@@ -79,3 +79,14 @@ I am not yet too sure how Hydrus works (the ins & outs) but here is what I do af
 10. Give the image deletion process some time as it may take a while to delete all of them espescially if you downloaded a big gallery.
 
 TA-DA! **ENJOY**
+
+***
+
+## SOME ADDITIONAL RESOURCES YOU SHOULD CHECK OUT:
+
+- [Hydrus Network (Client and Server) - Github](https://github.com/hydrusnetwork/hydrus)
+
+- [hydrus network - client and server - Website](https://hydrusnetwork.github.io/hydrus/)
+
+- [How to Hydrus - YouTube Playlist](https://youtube.com/playlist?list=PLD4r6M35XTXNb6vse1urIhJPCjsZL9mru&si=q3smaRHSo7U2Aqyn)
+
