@@ -39,15 +39,19 @@ on your browser and log in to your Discord account.
 14. In the table look at the **File** column and look for and click on either the line named "**library**" OR the line named "**country-code**". Refresh if you don't see anything.
 15. In the right section, under headers, look for the authorisation line.
 16. Copy the text next to authorisation.
-17. In Hydrus, navigate to the `network -> data -> manage http headers` through the toolbar.
-18. Replace the "PUT TOKEN HERE" with the token you copied in step 16.
-19. Click "Apply" twice.
+17. If you struggle with step 11>16 try the following:
 
-20. Now head back over to Discord, for the next steps you can either use the browser version or the app.
-21. Make sure **Developer Mode** is switched on in your Discord settings and head over to the channel which you wish to bulk download from.
-22. Right Click Channel Name > Click **Copy Channel ID**.
+![dc auth token](https://github.com/Courage-1984/Discord-Channel-Bulk-Image-Download/assets/18268669/bc4a30aa-5f65-4ff9-9953-16b0596b6dab)
 
-23. If you struggle with step 21 & 22 watch the following:
+18. In Hydrus, navigate to the `network -> data -> manage http headers` through the toolbar.
+19. Replace the "PUT TOKEN HERE" with the token you copied in step 16.
+20. Click "Apply" twice.
+
+21. Now head back over to Discord, for the next steps you can either use the browser version or the app.
+22. Make sure **Developer Mode** is switched on in your Discord settings and head over to the channel which you wish to bulk download from.
+23. Right Click Channel Name > Click **Copy Channel ID**.
+
+24. If you struggle with step 21 & 22 watch the following:
 
 https://github.com/Courage-1984/Discord-Channel-Bulk-Image-Download/assets/18268669/749e7846-5d3f-405d-b948-f952f408bc26
 
